@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -39,8 +39,9 @@
       \strng{authorbibnamehash}{26a8b4a95216218b2dfc1460f6d4c494}
       \strng{authornamehash}{26a8b4a95216218b2dfc1460f6d4c494}
       \strng{authorfullhash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \field{extraname}{1}
       \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}
@@ -71,8 +72,9 @@
       \strng{authorbibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
       \strng{authornamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
       \strng{authorfullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
+      \field{extraname}{2}
       \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1}
