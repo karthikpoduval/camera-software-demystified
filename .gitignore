@@ -7,3 +7,6 @@
 *.ptc
 *.run.xml
 *.toc
+*.bbl
+*.idx
+*.ind
